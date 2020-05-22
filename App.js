@@ -1,7 +1,7 @@
 import React from 'react';
 import { StyleSheet, Text, View } from 'react-native';
-import {NavBar } from './scr/NavBar';
-import {AddTodo } from './scr/AddTodo';
+import {NavBar } from './NavBar';
+import {AddTodo } from './AddTodo';
 
 export default function App() {
   return (
